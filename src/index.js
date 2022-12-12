@@ -3,8 +3,8 @@ import ReactDOM from 'react-dom/client';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import GlobalStyles from '~/components/GlobalStyles';
-import Tippy from '@tippyjs/react';
-import 'tippy.js/dist/tippy.css'; // optional
+// import Tippy from '@tippyjs/react';
+// import 'tippy.js/dist/tippy.css'; // optional
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
